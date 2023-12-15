@@ -119,7 +119,13 @@ test = list(acronyms[0].values())[1]
 
 hold = []
 
+print(rand)
+
+if rand == 0:
+    rand = 1
+
 for i in range(rand):
     rand2 = random.randint(0, 11)
+    print(rand2)
+    print(list(acronyms[0].values())[rand2])
     
-print(list(acronyms[0].values())[0])
