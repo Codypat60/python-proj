@@ -104,6 +104,12 @@ acronyms = [
             {"I": "Identify"},
             {"D": "Do"},
             {"E": "Evaluate"}
+        ],
+        "PRAE": [
+            {"P": "Power"},
+            {"R": "Rudder"},
+            {"A": "Aileron"},
+            {"E": "Elevator"}
         ]
     }
 ]
